@@ -1,0 +1,28 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+* {
+  border: solid;
+  border-color: black;
+}
+.animals {
+  background-color: blue;
+  display: flex;
+  justify-content: space-between;
+  border-color: honeydew;
+}
+.chameleon {
+  justify-content: space-between;
+  background-color: hotpink;
+}
+.camel {
+  display: flex;
+  justify-content: space-between;
+  background: cyan;
+}
+.pigeon {
+  background: greenyellow;
+  display: flex;
+  justify-content: space-evenly;
+}
